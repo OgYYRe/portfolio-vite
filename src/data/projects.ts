@@ -41,7 +41,7 @@ export const projects: Project[] = [
     titleKey: 'projects.items.project4.title',
     descriptionKey: 'projects.items.project4.description',
     imageUrl: '/projects/wordle.png',
-    liveUrl: 'https://lexiq-frontend-doq4.onrender.com/', //!TODO
+    liveUrl: 'https://lexiq-frontend-latest.onrender.com/', //!TODO
     repoUrl: 'https://github.com/OgYYRe/LexIQ', //!TODO chanche name
     tags: [''], //!TODO
   },
