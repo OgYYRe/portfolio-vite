@@ -68,7 +68,7 @@ const en = {
       project2: {
         title: 'Seelenbrot Mobile App',
         description:
-            '.', //!TODO
+            'A mobile app developed with React Native for selecting, managing, and processing PDF documents. The app was built for iOS and Android and utilizes native features such as file access.',
       },
       project3: {
         title: 'Remembrance Mobile App',

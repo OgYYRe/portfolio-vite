@@ -68,7 +68,7 @@ const de = {
       project2: {
         title: 'Seelenbrot Mobile App',
         description:
-            '.', //!TODO
+            'Eine mit React Native entwickelte Mobile-App zur Auswahl, Verwaltung und Verarbeitung von PDF-Dokumenten. Die Anwendung wurde für iOS und Android umgesetzt und nutzt native Funktionen wie den Dateizugriff.', //!TODO
       },
       project3: {
         title: 'Remembrance Mobile App',
