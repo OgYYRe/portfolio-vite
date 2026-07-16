@@ -6,6 +6,7 @@ export type Project = {
   liveUrl: string
   repoUrl?: string
   tags: string[]
+  androidUrl?: string
 }
 
 export const projects: Project[] = [
@@ -25,6 +26,7 @@ export const projects: Project[] = [
     imageUrl: '/projects/seelenbrot.png',
     liveUrl: 'https://apps.apple.com/ch/app/seelenbrot/id6766093047',
     repoUrl: 'https://github.com/OgYYRe/seelenbrot',
+    androidUrl: 'https://drive.google.com/file/d/1bmB32KpCaZQ7i2sBH_3nm0Ixvxte3Rai/view?usp=sharing',
     tags: [''],
   },
   {
