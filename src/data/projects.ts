@@ -5,8 +5,8 @@ export type Project = {
   imageUrl: string
   liveUrl: string
   repoUrl?: string
-  tags: string[]
   androidUrl?: string
+  tags: string[]
 }
 
 export const projects: Project[] = [

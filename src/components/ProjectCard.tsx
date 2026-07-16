@@ -99,6 +99,16 @@ const ProjectCard = ({ project, title, description }: ProjectCardProps) => {
                     Code
                   </a>
               ) : null}
+              {project.androidUrl ? (
+                  <a
+                      href={project.androidUrl}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-green-300 hover:text-green-200"
+                  >
+                    Android
+                  </a>
+              ) : null}
             </div>
           </div>
         </article>
